@@ -68,6 +68,7 @@ body {
   .nav-link.active::before {
     width: 100%;
     visibility: visible;
+    
   }
 }
 
